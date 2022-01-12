@@ -1,9 +1,12 @@
-Pepe The Frog Lord
+Pepe The Frog Lord 
 
-Vue3 Full Stack Dev
+“Sometimes people don't want to hear the truth because they don't want their illusions destroyed.”
+― Friedrich Nietzsche
+
+Vue3 (Vite) Full Stack Dev
 
 Crestron UI/UX Design => Deployment
 
-M.E.V.N stack, Firebase
+TypeScript, C#, M.E.V.N stack, Vite, Firebase ect
 
 http://www.nterface.tech
