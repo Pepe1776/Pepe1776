@@ -11,6 +11,6 @@ TypeScript, C#, M.E.V.N stack, Vite, Firebase ect
 
 http://jparker.netlify.app
 
-http://www.monsteria-vite.netlify.app
+https://monsteria-vite.netlify.app
 
 http://www.nterface.tech
