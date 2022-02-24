@@ -5,6 +5,8 @@ Pepe The Frog Lord
 
 Vue3 (Vite) Full Stack Dev
 
+Web3
+
 Crestron UI/UX Design => Deployment
 
 TypeScript, C#, M.E.V.N stack, Vite, Firebase ect
