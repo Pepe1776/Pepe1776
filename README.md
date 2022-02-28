@@ -5,7 +5,7 @@ Pepe The Frog Lord
 
 Vue3 (Vite) Full Stack Dev
 
-Web3
+Web3 (polygon, Alchemy)
 
 Crestron UI/UX Design => Deployment
 
