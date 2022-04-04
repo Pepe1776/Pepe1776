@@ -7,7 +7,7 @@ JParker Dev
 
 Vue3 (Vite) Full Stack Dev
 
-Web3 (polygon, Alchemy)
+Web3 (polygon, Alchemy, solidity, hardhat, ethers)
 
 Crestron UI/UX Design => Deployment
 
