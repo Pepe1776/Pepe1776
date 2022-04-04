@@ -13,4 +13,6 @@ Crestron UI/UX Design => Deployment
 
 TypeScript, C#, M.E.V.N stack, Vite, Firebase ect
 
+http://jparkerdev.netlify.app (3d)
+
 http://jparker.netlify.app
