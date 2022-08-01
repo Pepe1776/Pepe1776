@@ -5,12 +5,8 @@ JParker Dev
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepe1776)](https://github.com/pepe1776/github-readme-stats)
 
-Vue3 (Vite) Full Stack Dev
-
-Web3 (polygon, Alchemy, solidity, hardhat, ethers)
-
-Crestron UI/UX Design => Deployment
-
-TypeScript, C#, M.E.V.N stack, Vite, Firebase ect
+Software Engineer
+Javascript, Lua Script, Home Automation Programming
+Control4, Crestron, Q-Sys
 http://j-parker.netlify.app
 
