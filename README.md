@@ -6,7 +6,10 @@ JParker Dev
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepe1776)](https://github.com/pepe1776/github-readme-stats)
 
 Software Engineer
+
 Javascript, Lua Script, Home Automation Programming
+
 Control4, Crestron, Q-Sys
+
 http://j-parker.netlify.app
 
