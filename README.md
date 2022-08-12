@@ -12,6 +12,9 @@ Javascript, Lua Script, Home Automation Programming
 Control4, Crestron, Q-Sys
 
 https://parker-dev.netlify.app/
+
+...
+
 http://j-parker.netlify.app
 
 
