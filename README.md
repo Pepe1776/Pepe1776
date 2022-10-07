@@ -7,7 +7,7 @@ JParker Dev
 
 Software Engineer
 
-Javascript, Lua Script, Home Automation Programming
+Javascript, Lua Script, Automation Programming
 
 Control4, Crestron, Q-Sys
 
